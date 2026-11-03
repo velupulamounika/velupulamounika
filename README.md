@@ -31,14 +31,6 @@
 - Docker
 - Jenkins
 
-### AWS Project
-
-**Mass Email Automation Using AWS S3, Lambda & SES**
-
-- Automated email delivery using CSV files uploaded to Amazon S3.
-- AWS Lambda processes recipient details.
-- Amazon SES sends emails automatically.
-- CloudWatch monitors execution logs.
 
 ### Career Goal
 
