@@ -44,3 +44,14 @@
 
 To build a career in AWS Cloud and DevOps by applying my technical knowledge and practical skills to real-world projects.
 
+## 🚀 Featured Project
+
+### AWS Mass Email Automation Using S3, Lambda & SES
+
+- Automated email delivery using AWS services.
+- Used Python with AWS Lambda.
+- Integrated Amazon S3 and SES.
+- Monitored execution using CloudWatch.
+
+🔗 [View Project on GitHub](https://github.com/velupulamounika/aws-mass-email-automation)
+
