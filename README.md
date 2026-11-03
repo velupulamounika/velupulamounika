@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Velupula Mounika 👋
 
-<!--
-**velupulamounika/velupulamounika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AWS Cloud & DevOps Engineer | B.Tech CSE Graduate
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Graduate (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ AWS Cloud Training – Completed
+
+⚙️ DevOps Training – Completed
+
+### AWS Skills
+- Amazon EC2
+- Amazon VPC
+- IAM
+- Amazon S3
+- Amazon EBS
+- Elastic Load Balancing
+- Auto Scaling
+- AWS Lambda
+- CloudWatch
+- Amazon RDS
+- Amazon EFS
+- CloudFront
+- Route 53
+
+### DevOps Skills
+- Linux Administration
+- Git & GitHub
+- Shell Scripting
+- Python
+- Docker
+- Jenkins
+
+### AWS Project
+
+**Mass Email Automation Using AWS S3, Lambda & SES**
+
+- Automated email delivery using CSV files uploaded to Amazon S3.
+- AWS Lambda processes recipient details.
+- Amazon SES sends emails automatically.
+- CloudWatch monitors execution logs.
+
+### Career Goal
+
+To build a career in AWS Cloud and DevOps by applying my technical knowledge and practical skills to real-world projects.
+
